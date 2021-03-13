@@ -4,6 +4,7 @@ Examen práctico para Desarrollador de Aplicaciones Móviles
 El objetivo es crear una aplicación que maneje la lógica para permitir que el usuario inicie sesión y vea la vista principal y vea la vista principal cada vez que inicie la aplicación.
 
 Requerimientos:
+
 -> Desarrollador iOS 
 * La aplicación debe construirse con Swift 5+. Utilice Xcode como IDE. 
 * El entregable debe contener pasos completos para configurar un entorno para ejecutar la aplicación. Supongamos que nunca hemos desarrollado nada en iOS.
