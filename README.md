@@ -1,7 +1,7 @@
 # Test-Dev-Apps
 Examen práctico para Desarrollador de Aplicaciones Móviles
 
-El objetivo es crear una aplicación que maneje la lógica para permitir que el usuario inicie sesión y vea la vista principal y vea la vista principal cada vez que inicie la aplicación.
+El objetivo es crear una aplicación que maneje la lógica para permitir que el usuario inicie sesión y vea la vista principal cada vez que inicie la aplicación.
 
 Requerimientos:
 
