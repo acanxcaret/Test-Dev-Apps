@@ -25,9 +25,9 @@ Historias de usuario
 
 Puntos Extras
 * Utilice una arquitectura para dividir y encapsular componentes de una característica (por ejemplo, MVC, MVP, MVVM).
-* Diseño de la aplicación.
-* Uso de librerias
-* Uso de Firebase
+* Diseño de la aplicación. (UI/UX)
+* Uso de librerias (Al menos dos)
+* Uso de Firebase (Autenticatión, DataBase)
 
 Consideraciones.
 Pokemon API Docs. 
